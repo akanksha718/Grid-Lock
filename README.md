@@ -35,4 +35,6 @@ The columns provided in the dataset are defined as follows:
 
 
 # Evaluation Metric
-The performance of the predictions will be evaluated using the $R^2$ score, formatted as:$$\text{Score} = \max(0, 100 \times \text{r2\_score}(\text{actual}, \text{predicted}))$$
+The performance of the predictions will be evaluated using the $R^2$ score, formatted as:
+
+Score=max(0,100×r2_score(actual,predicted))
